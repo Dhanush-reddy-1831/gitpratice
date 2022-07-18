@@ -1,12 +1,12 @@
 
 import './App.css';
 
-import Login from './Component/Login';
+import ComponentA from './Mentor/ComponentA';
 
 function App() {
   return (
     <div className="App">
-   <Login />
+ <ComponentA />
     </div>
   );
 }
